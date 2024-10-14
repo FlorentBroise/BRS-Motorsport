@@ -10,6 +10,11 @@ Product|Content Description|Licence|Released
 
 If you want to get design or use it, you can directly contact me for it or shop them on my store
 
+Product|Content Description|Licence|Released|Manual|Credit
+ :---: |-------------------|------|-------|-------|-------|
+1.|[Porsche C/B 987.x Rear underframe stabilizer](https://store.brs-engineering.com/products/plaque-antichoc-desnorkeling-hex-pour-porsche-cayman-boxster-987)|CC-BY-SA-NC|21/12/2023|[MANUAL](Manual-987-Rear-Stab.pdf)|[MyNameIdeasWereTaken](https://www.youtube.com/watch?v=zMdZWFTRh18)
+
+Manual-987-Rear-Stab.pdf
 
 Official Website: https://www.brs-engineering.com/
 Official Store: https://store.brs-engineering.com/
