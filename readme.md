@@ -12,7 +12,7 @@ If you want to get design or use it, you can directly contact me for it or shop 
 
 Product|Content Description|Licence|Released|Manual|Credit
  :---: |-------------------|------|-------|-------|-------|
-1.|[Porsche C/B 987.x Rear underframe stabilizer](https://store.brs-engineering.com/products/stabilisateur-sous-chassis-arriere-987c)|CC-BY-SA-NC|21/12/2023|[MANUAL](Manual-987-Rear-Stab.pdf)|[MyNameIdeasWereTaken](https://www.youtube.com/watch?v=zMdZWFTRh18)
+1.|[Porsche C/B 987.x Rear underframe stabilizer](https://store.brs-engineering.com/products/stabilisateur-sous-chassis-arriere-987c)|CC-BY-SA-NC|21/12/2023|[MANUAL](https://github.com/FlorentBroise/BRS-Motorsport/blob/main/Manuals/Manual-987-Rear-Stab.pdf)|[MyNameIdeasWereTaken](https://www.youtube.com/watch?v=zMdZWFTRh18)
 
 Manual-987-Rear-Stab.pdf
 
